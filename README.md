@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import sinpi from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinpi@esm/index.mjs';
+import sinpi from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinpi@v0.1.0-esm/index.mjs';
 ```
 
 #### sinpi( x )
@@ -80,7 +80,7 @@ y = sinpi( NaN );
 <script type="module">
 
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@esm/index.mjs';
-import sinpi from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinpi@esm/index.mjs';
+import sinpi from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinpi@v0.1.0-esm/index.mjs';
 
 var x = linspace( -100.0, 100.0, 100 );
 
