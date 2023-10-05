@@ -26,13 +26,13 @@ var PINF = require( '@stdlib/constants-float64-pinf' );
 var NINF = require( '@stdlib/constants-float64-ninf' );
 var EPS = require( '@stdlib/constants-float64-eps' );
 var abs = require( '@stdlib/math-base-special-abs' );
-var sinpi = require( './../../dist/' );
+var sinpi = require( './../../lib/' );
 
 
 // FIXTURES //
 
-var integers = require( './../..xtures/julia/integers.json' );
-var decimals = require( './../..xtures/julia/decimals.json' );
+var integers = require( './../fixtures/julia/integers.json' );
+var decimals = require( './../fixtures/julia/decimals.json' );
 
 
 // TESTS //
