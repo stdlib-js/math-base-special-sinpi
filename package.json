@@ -43,7 +43,8 @@
     "@stdlib/math-base-special-abs": "^0.1.0",
     "@stdlib/math-base-special-copysign": "^0.1.0",
     "@stdlib/math-base-special-cos": "^0.1.0",
-    "@stdlib/math-base-special-sin": "^0.1.0"
+    "@stdlib/math-base-special-sin": "^0.1.0",
+    "@stdlib/error-tools-fmtprodmsg": "^0.1.1"
   },
   "devDependencies": {
     "@stdlib/array-base-linspace": "^0.1.0",
