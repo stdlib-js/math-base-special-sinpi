@@ -40,7 +40,7 @@
     "@stdlib/constants-float64-pi": "^0.1.1",
     "@stdlib/math-base-assert-is-infinite": "^0.1.1",
     "@stdlib/math-base-assert-is-nan": "^0.1.1",
-    "@stdlib/math-base-special-abs": "^0.1.0",
+    "@stdlib/math-base-special-abs": "^0.1.1",
     "@stdlib/math-base-special-copysign": "^0.1.0",
     "@stdlib/math-base-special-cos": "^0.1.0",
     "@stdlib/math-base-special-sin": "^0.1.0"
