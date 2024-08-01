@@ -46,13 +46,13 @@
     "@stdlib/math-base-napi-unary": "^0.2.3",
     "@stdlib/math-base-special-abs": "^0.2.2",
     "@stdlib/math-base-special-copysign": "^0.2.2",
-    "@stdlib/math-base-special-cos": "^0.2.1",
+    "@stdlib/math-base-special-cos": "^0.3.0",
     "@stdlib/math-base-special-fmod": "^0.1.0",
-    "@stdlib/math-base-special-sin": "^0.2.1",
+    "@stdlib/math-base-special-sin": "^0.3.0",
     "@stdlib/utils-library-manifest": "^0.2.2"
   },
   "devDependencies": {
-    "@stdlib/array-base-linspace": "^0.2.1",
+    "@stdlib/array-base-linspace": "^0.2.2",
     "@stdlib/constants-float64-eps": "^0.2.2",
     "@stdlib/constants-float64-ninf": "^0.2.2",
     "@stdlib/constants-float64-pinf": "^0.2.2",
