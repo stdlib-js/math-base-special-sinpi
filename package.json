@@ -53,6 +53,7 @@
   },
   "devDependencies": {
     "@stdlib/array-base-linspace": "^0.2.2",
+    "@stdlib/assert-is-same-value": "^0.2.2",
     "@stdlib/constants-float64-eps": "^0.2.2",
     "@stdlib/constants-float64-ninf": "^0.2.2",
     "@stdlib/constants-float64-pinf": "^0.2.2",
