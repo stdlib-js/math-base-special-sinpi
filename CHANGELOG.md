@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-05)
+## Unreleased (2025-04-11)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`d069841`](https://github.com/stdlib-js/stdlib/commit/d0698415fd26eb45c1cab1e1be0e4551fdae5656) - **docs:** replace manual `for` loop in examples [(#6641)](https://github.com/stdlib-js/stdlib/pull/6641) _(by Harsh)_
+-   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
 -   [`d9ad02c`](https://github.com/stdlib-js/stdlib/commit/d9ad02ca1c902ca787d9e9135160871379e40829) - **test:** add tests for IEEE 754-2019 compliance [(#6557)](https://github.com/stdlib-js/stdlib/pull/6557) _(by Karan Anand)_
 -   [`7896f80`](https://github.com/stdlib-js/stdlib/commit/7896f80700cc662cc72126b8a9e81bf392f916b8) - **test:** add tests for IEEE 754-2019 compliance [(#6559)](https://github.com/stdlib-js/stdlib/pull/6559) _(by Karan Anand)_
 -   [`c741f19`](https://github.com/stdlib-js/stdlib/commit/c741f19410c565ec113a79a399dde2181761ad94) - **bench:** update random value generation [(#6036)](https://github.com/stdlib-js/stdlib/pull/6036) _(by Karan Anand)_
@@ -26,8 +28,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Harsh
 -   Karan Anand
 
 </section>
