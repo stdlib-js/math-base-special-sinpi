@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-24)
+## Unreleased (2025-11-01)
 
 <section class="commits">
 
@@ -12,12 +12,13 @@
 
 <details>
 
+-   [`eb4543a`](https://github.com/stdlib-js/stdlib/commit/eb4543a5261181d7aba77db4fab18a313e7a6a56) - **chore:** add structured package data for `math/base/special/sinpi` [(#8327)](https://github.com/stdlib-js/stdlib/pull/8327) _(by Manvith M, Athan Reines)_
 -   [`8f7d735`](https://github.com/stdlib-js/stdlib/commit/8f7d73543738d3f186c4b404019873c0a5113550) - **bench:** fix parameter name _(by Philipp Burckhardt)_
 -   [`5e6e13b`](https://github.com/stdlib-js/stdlib/commit/5e6e13ba6193f5c392c24c247c94fbf7d82c647f) - **bench:** use `random_uniform` _(by Karan Anand)_
 -   [`86f58fc`](https://github.com/stdlib-js/stdlib/commit/86f58fc94653e5d7bfef5ec5224cac73814d6738) - **refactor:** update C examples for consistency _(by Karan Anand)_
 -   [`4e65259`](https://github.com/stdlib-js/stdlib/commit/4e65259090fc4e595ca9d5c6fadac83de3904d8f) - **test:** update test messages and use `ulpdiff` for comparison _(by Karan Anand)_
 -   [`0832f27`](https://github.com/stdlib-js/stdlib/commit/0832f272cb969b3ce37e9668a336fb70248bae4a) - **docs:** update notes section _(by Karan Anand)_
--   [`d069841`](https://github.com/stdlib-js/stdlib/commit/d0698415fd26eb45c1cab1e1be0e4551fdae5656) - **docs:** replace manual `for` loop in examples [(#6641)](https://github.com/stdlib-js/stdlib/pull/6641) _(by Harsh)_
+-   [`d069841`](https://github.com/stdlib-js/stdlib/commit/d0698415fd26eb45c1cab1e1be0e4551fdae5656) - **docs:** replace manual `for` loop in examples [(#6641)](https://github.com/stdlib-js/stdlib/pull/6641) _(by Harsh Yadav)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
 -   [`d9ad02c`](https://github.com/stdlib-js/stdlib/commit/d9ad02ca1c902ca787d9e9135160871379e40829) - **test:** add tests for IEEE 754-2019 compliance [(#6557)](https://github.com/stdlib-js/stdlib/pull/6557) _(by Karan Anand)_
 -   [`7896f80`](https://github.com/stdlib-js/stdlib/commit/7896f80700cc662cc72126b8a9e81bf392f916b8) - **test:** add tests for IEEE 754-2019 compliance [(#6559)](https://github.com/stdlib-js/stdlib/pull/6559) _(by Karan Anand)_
@@ -33,10 +34,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
--   Harsh
+-   Athan Reines
+-   Harsh Yadav
 -   Karan Anand
+-   Manvith M
 -   Philipp Burckhardt
 
 </section>
