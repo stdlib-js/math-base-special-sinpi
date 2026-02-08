@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import sinpi from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinpi@esm/index.mjs';
+import sinpi from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinpi@v0.3.1-esm/index.mjs';
 ```
 
 #### sinpi( x )
@@ -81,7 +81,7 @@ y = sinpi( NaN );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import sinpi from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinpi@esm/index.mjs';
+import sinpi from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinpi@v0.3.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
