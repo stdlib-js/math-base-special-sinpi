@@ -35,6 +35,22 @@ limitations under the License.
 
 > Compute the [sine][@stdlib/math/base/special/sin] of a number times [π][@stdlib/constants/float64/pi].
 
+<section class="intro">
+
+The function computes the [sine][sine] of a number scaled by `π`
+
+<!-- <equation class="equation" label="eq:sinpi_function" align="center" raw="y = \sin(\pi x)" alt="Sine of pi times x"> -->
+
+```math
+y = \sin(\pi x)
+```
+
+<!-- </equation> -->
+
+</section>
+
+<!-- /.intro -->
+
 <section class="installation">
 
 ## Installation
@@ -278,6 +294,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/math-base-special-sinpi/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-sinpi/main/LICENSE
+
+[sine]: https://en.wikipedia.org/wiki/Sine
 
 [@stdlib/constants/float64/pi]: https://github.com/stdlib-js/constants-float64-pi
 
